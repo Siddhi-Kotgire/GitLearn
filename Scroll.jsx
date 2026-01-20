@@ -1,9 +1,13 @@
 import React from 'react'
 
 const Scroll = () => {
-  return (
-    <div>Scroll</div>
-  )
+    return (
+        <>
+            <div> Scroll updated</div>
+            <div>Scroll</div>
+        </>
+
+    )
 }
 
 export default Scroll
